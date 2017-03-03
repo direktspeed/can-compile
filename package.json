@@ -31,7 +31,7 @@
     "grunt-cli": "~1.2.0",
     "grunt-contrib-jshint": ">= 0.1.1",
     "grunt-release": "~0.14.0",
-    "grunt-simple-mocha": "~0.4.0",
+    "grunt-simple-mocha": "~0.4.1",
     "gulp": "^3.9.0",
     "stream-assert": "^2.0.3"
   },
